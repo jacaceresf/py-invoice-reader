@@ -1,0 +1,215 @@
+<rDE xmlns="http://ekuatia.set.gov.py/sifen/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://ekuatia.set.gov.py/sifen/xsd siRecepDE_v150.xsd">
+  <dVerFor>150</dVerFor>
+  <DE Id="01800133668024001002060922023122615000827542">
+    <dDVId>2</dDVId>
+    <dFecFirma>2023-12-26T10:59:24</dFecFirma>
+    <dSisFact>1</dSisFact>
+    <gOpeDE>
+      <iTipEmi>1</iTipEmi>
+      <dDesTipEmi>Normal</dDesTipEmi>
+      <dCodSeg>500082754</dCodSeg>
+    </gOpeDE>
+    <gTimb>
+      <iTiDE>1</iTiDE>
+      <dDesTiDE>Factura electrónica</dDesTiDE>
+      <dNumTim>15996545</dNumTim>
+      <dEst>024</dEst>
+      <dPunExp>001</dPunExp>
+      <dNumDoc>0020609</dNumDoc>
+      <dFeIniT>2022-11-02</dFeIniT>
+    </gTimb>
+    <gDatGralOpe>
+      <dFeEmiDE>2023-12-26T11:05:02</dFeEmiDE>
+      <gOpeCom>
+        <iTipTra>1</iTipTra>
+        <dDesTipTra>Venta de mercadería</dDesTipTra>
+        <iTImp>1</iTImp>
+        <dDesTImp>IVA</dDesTImp>
+        <cMoneOpe>PYG</cMoneOpe>
+        <dDesMoneOpe>Guarani</dDesMoneOpe>
+      </gOpeCom>
+      <gEmis>
+        <dRucEm>80013366</dRucEm>
+        <dDVEmi>8</dDVEmi>
+        <iTipCont>2</iTipCont>
+        <dNomEmi>AUTOMAQ SAECA</dNomEmi>
+        <dNomFanEmi>AUTOMAQ SAECA</dNomFanEmi>
+        <dDirEmi>AVENIDA, AVDA REPÚBLICA ARGENTINA CASI AVDA EUSEBIO AYALA</dDirEmi>
+        <dNumCas>2150</dNumCas>
+        <cDepEmi>1</cDepEmi>
+        <dDesDepEmi>CAPITAL</dDesDepEmi>
+        <cDisEmi>1</cDisEmi>
+        <dDesDisEmi>ASUNCION (DISTRITO)</dDesDisEmi>
+        <cCiuEmi>1</cCiuEmi>
+        <dDesCiuEmi>ASUNCION (DISTRITO)</dDesCiuEmi>
+        <dTelEmi>(021)3799000</dTelEmi>
+        <dEmailE>contabiliodad@automaq.com.py</dEmailE>
+        <dDenSuc>024 Taller Sara Beatriz</dDenSuc>
+        <gActEco>
+          <cActEco>45101</cActEco>
+          <dDesActEco>COMERCIO AL POR MAYOR DE VEHÍCULOS AUTOMOTORES NUEVOS</dDesActEco>
+        </gActEco>
+        <gActEco>
+          <cActEco>46530</cActEco>
+          <dDesActEco>COMERCIO AL POR MAYOR DE MAQUINARIA, EQUIPO Y SUMINISTROS AGRÍCOLAS</dDesActEco>
+        </gActEco>
+        <gActEco>
+          <cActEco>45303</cActEco>
+          <dDesActEco>COMERCIO DE PARTES, PIEZAS Y ACCESORIOS NUEVOS Y USADOS PARA VEHÍCULOS AUTOMOTORES</dDesActEco>
+        </gActEco>
+        <gActEco>
+          <cActEco>45102</cActEco>
+          <dDesActEco>COMERCIO AL POR MAYOR DE VEHÍCULOS AUTOMOTORES USADOS</dDesActEco>
+        </gActEco>
+        <gActEco>
+          <cActEco>45201</cActEco>
+          <dDesActEco>MANTENIMIENTO Y REPARACIÓN MECÁNICA DE VEHÍCULOS</dDesActEco>
+        </gActEco>
+      </gEmis>
+      <gDatRec>
+        <iNatRec>1</iNatRec>
+        <iTiOpe>2</iTiOpe>
+        <cPaisRec>PRY</cPaisRec>
+        <dDesPaisRe>Paraguay</dDesPaisRe>
+        <iTiContRec>1</iTiContRec>
+        <dRucRec>4787628</dRucRec>
+        <dDVRec>0</dDVRec>
+        <dNomRec>Jorge Ariel CACERES FLORES</dNomRec>
+        <dDirRec>Avda. San Agustin</dDirRec>
+        <dNumCasRec>1</dNumCasRec>
+        <dTelRec>0984 525-232</dTelRec>
+        <dEmailRec>jorge97caceres@gmail.com</dEmailRec>
+        <dCodCliente>0000066311</dCodCliente>
+      </gDatRec>
+    </gDatGralOpe>
+    <gDtipDE>
+      <gCamFE>
+        <iIndPres>1</iIndPres>
+        <dDesIndPres>Operación presencial</dDesIndPres>
+      </gCamFE>
+      <gCamCond>
+        <iCondOpe>1</iCondOpe>
+        <dDCondOpe>Contado</dDCondOpe>
+        <gPaConEIni>
+          <iTiPago>1</iTiPago>
+          <dDesTiPag>Efectivo</dDesTiPag>
+          <dMonTiPag>290001</dMonTiPag>
+          <cMoneTiPag>PYG</cMoneTiPag>
+          <dDMoneTiPag>Guarani</dDMoneTiPag>
+        </gPaConEIni>
+      </gCamCond>
+      <gCamItem>
+        <dCodInt>25632</dCodInt>
+        <dDesProSer>LIMPIEZA DE DESAGUE</dDesProSer>
+        <cUniMed>77</cUniMed>
+        <dDesUniMed>UNI</dDesUniMed>
+        <dCantProSer>1</dCantProSer>
+        <gValorItem>
+          <dPUniProSer>50001.0000</dPUniProSer>
+          <dTotBruOpeItem>50001.0000</dTotBruOpeItem>
+          <gValorRestaItem>
+            <dDescItem>0</dDescItem>
+            <dDescGloItem>0.00000000</dDescGloItem>
+            <dAntPreUniIt>0</dAntPreUniIt>
+            <dAntGloPreUniIt>0</dAntGloPreUniIt>
+            <dTotOpeItem>50001.0000</dTotOpeItem>
+          </gValorRestaItem>
+        </gValorItem>
+        <gCamIVA>
+          <iAfecIVA>1</iAfecIVA>
+          <dDesAfecIVA>Gravado IVA</dDesAfecIVA>
+          <dPropIVA>100</dPropIVA>
+          <dTasaIVA>10</dTasaIVA>
+          <dBasGravIVA>45455</dBasGravIVA>
+          <dLiqIVAItem>4546</dLiqIVAItem>
+          <dBasExe>0</dBasExe>
+        </gCamIVA>
+      </gCamItem>
+      <gCamItem>
+        <dCodInt>25551</dCodInt>
+        <dDesProSer>ENTREMANTENIMIENTO</dDesProSer>
+        <cUniMed>77</cUniMed>
+        <dDesUniMed>UNI</dDesUniMed>
+        <dCantProSer>1</dCantProSer>
+        <gValorItem>
+          <dPUniProSer>240000</dPUniProSer>
+          <dTotBruOpeItem>240000</dTotBruOpeItem>
+          <gValorRestaItem>
+            <dDescItem>0</dDescItem>
+            <dDescGloItem>0.00000000</dDescGloItem>
+            <dAntPreUniIt>0</dAntPreUniIt>
+            <dAntGloPreUniIt>0</dAntGloPreUniIt>
+            <dTotOpeItem>240000</dTotOpeItem>
+          </gValorRestaItem>
+        </gValorItem>
+        <gCamIVA>
+          <iAfecIVA>1</iAfecIVA>
+          <dDesAfecIVA>Gravado IVA</dDesAfecIVA>
+          <dPropIVA>100</dPropIVA>
+          <dTasaIVA>10</dTasaIVA>
+          <dBasGravIVA>218182</dBasGravIVA>
+          <dLiqIVAItem>21818</dLiqIVAItem>
+          <dBasExe>0</dBasExe>
+        </gCamIVA>
+      </gCamItem>
+      <gCamEsp>
+        <gGrupAdi>
+          <dContrato>0090689205</dContrato>
+        </gGrupAdi>
+      </gCamEsp>
+    </gDtipDE>
+    <gTotSub>
+      <dSubExe>0</dSubExe>
+      <dSubExo>0</dSubExo>
+      <dSub5>0</dSub5>
+      <dSub10>290001.0000</dSub10>
+      <dTotOpe>290001</dTotOpe>
+      <dTotDesc>0</dTotDesc>
+      <dTotDescGlotem>0</dTotDescGlotem>
+      <dTotAntItem>0</dTotAntItem>
+      <dTotAnt>0</dTotAnt>
+      <dPorcDescTotal>0</dPorcDescTotal>
+      <dDescTotal>0.00000000</dDescTotal>
+      <dAnticipo>0</dAnticipo>
+      <dRedon>0</dRedon>
+      <dTotGralOpe>290001</dTotGralOpe>
+      <dIVA5>0</dIVA5>
+      <dIVA10>26364</dIVA10>
+      <dLiqTotIVA5>0</dLiqTotIVA5>
+      <dLiqTotIVA10>0</dLiqTotIVA10>
+      <dTotIVA>26364</dTotIVA>
+      <dBaseGrav5>0</dBaseGrav5>
+      <dBaseGrav10>263637</dBaseGrav10>
+      <dTBasGraIVA>263637</dTBasGraIVA>
+    </gTotSub>
+  </DE>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+      <Reference URI="#01800133668024001002060922023122615000827542">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+          <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+        <DigestValue>S+N1NmyqazCVUZRjm1RtL/6NNtc2Bsi53xe9UVhirUQ=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>
+      lL6cBrXIqcdm2A+PnIiFlWUZSajYIHSxfHUBb4jMD+DHkGq5348+vkbAeCGgWTDddd+CNDor2yc5HBuvCjT6qn57zkeQYpNqlTTIeYGvgTZ+X6+USRChDDw8c6XeTzsTEWCo5AgZAKhyoC37H5ATj9gCEUCUEE9q2JLuXVLStS4+pEWeXdyqu/5ujd9tTOOw9HUFDHFfgfOHewpxEsMMTUWwFpcwa+6OmIADSMgPZOTuhlR9cGdhULcTrTMEJBpLvWzovTLRo32MmCQYEgtvgLlz9IhJTCu5zfQNvbmeOduJpuHa/wDhoKtaqesDEG8yvOJQALRmGU1h1wk6WhPL0w==
+    </SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>
+          MIII8zCCBtugAwIBAgIQTWyUxG1XFwlkwCH+UNzoczANBgkqhkiG9w0BAQsFADCBgTEWMBQGA1UEBRMNUlVDODAwODAwOTktMDERMA8GA1UEAxMIVklUIFMuQS4xODA2BgNVBAsML1ByZXN0YWRvciBDdWFsaWZpY2FkbyBkZSBTZXJ2aWNpb3MgZGUgQ29uZmlhbnphMQ0wCwYDVQQKDARJQ1BQMQswCQYDVQQGEwJQWTAeFw0yMzA3MjUxOTI2NTRaFw0yNDA3MjUxOTI2NTRaMIGuMRUwEwYDVQQqDAxMVUlTIEFMQkVSVE8xFjAUBgNVBAQMDUNBU0NPIEJFTklURVoxETAPBgNVBAUTCENJNjM4MTMxMSMwIQYDVQQDDBpMVUlTIEFMQkVSVE8gQ0FTQ08gQkVOSVRFWjELMAkGA1UECwwCRjExKzApBgNVBAoMIkNFUlRJRklDQURPIENVQUxJRklDQURPIFRSSUJVVEFSSU8xCzAJBgNVBAYTAlBZMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAomJPv9fswnILTdGd9WJ2PL4cDTBnYCIdLHi8329vQUzPbVlgmqoktsoFfyybu3vxs7N/f1ORQYO3fSPPgZ2IP1EyPYvrdDsrMREaPyIa2PYzQ7V+7oVl0lnbMzL4Gjxzj3XV2Ft6iZru03YFGCbETlT9hOYqYVj08GfhVhmIPme5uQzfrlN5TM4yRETB43/see5/ZQ1jzdq6zSg39My6Q9vlYEC16djaNyRazBZ5vcoB0UjsK2DsHD5slzawbRrvY6WoimgjtkfwuStmlZho8kXUavMdsGJRhfRwDyjOOP4YHLbZlqIFPYZuTtB76gULjr0H5eSd3K773Gy+OF5h7wIDAQABo4IENjCCBDIwDAYDVR0TAQH/BAIwADAOBgNVHQ8BAf8EBAMCBeAwLAYDVR0lAQH/BCIwIAYIKwYBBQUHAwQGCCsGAQUFBwMCBgorBgEEAYI3FAICMB0GA1UdDgQWBBSq+2GuC+89Bn774VCf8k6tJxq/5TAfBgNVHSMEGDAWgBS7ZRErZ+2GOCAcKGcZFARl6pGhszCCAeIGA1UdIASCAdkwggHVMIIB0QYMKwYBBAGC2UoBAQEKMIIBvzAxBggrBgEFBQcCARYlaHR0cHM6Ly93d3cuZWZpcm1hLmNvbS5weS9yZXBvc2l0b3JpbzCBxwYIKwYBBQUHAgIwgboagbdDZXJ0aWZpY2FkbyBDdWFsaWZpY2FkbyBkZSBGaXJtYSBFbGVjdHLzbmljYSBUaXBvIEYxIChjbGF2ZXMgZW4gbfNkdWxvIHNvZnR3YXJlKSwgc3VqZXRhIGEgbGFzIGNvbmRpY2lvbmVzIGRlIHVzbyBleHB1ZXN0YXMgZW4gbGEgRGVjbGFyYWNp824gZGUgUHLhY3RpY2FzIGRlIENlcnRpZmljYWNp824gZGUgVklUIFMuQS4wgb8GCCsGAQUFBwICMIGyGoGvUXVhbGlmaWVkIGNlcnRpZmljYXRlIG9mIGVsZWN0cm9uaWMgc2lnbmF0dXJlIHR5cGUgRjEgKGtleXMgaW4gc29mdHdhcmUgbW9kdWxlKSwgc3ViZHVlZCB0byB0aGUgY29uZGl0aW9ucyBvZiB1c2Ugc2V0IGZvcnRoIGluIHRoZSBDZXJ0aWZpY2F0aW9uIFByYWN0aWNlIFN0YXRlbWVudCBvZiBWSVQgUy5BLjCBxwYDVR0RBIG/MIG8gRZMLkNBU0NPQEFVVE9NQVEuQ09NLlBZpIGhMIGeMTUwMwYDVQQNDCxGSVJNQSBFTEVDVFJPTklDQSBDVUFMSUZJQ0FEQSBkZSBuaXZlbCBtZWRpbzEWMBQGA1UEBRMNUlVDODAwMTMzNjYtODFNMEsGA1UECgxEQVVUT01PVE9SRVMgWSBNQVFVSU5BUklBIFNPQ0lFREFEIEFOT05JTUEgRU1JU09SQSBERSBDQVBJVEFMIEFCSUVSVE8wdwYIKwYBBQUHAQEEazBpMCgGCCsGAQUFBzABhhxodHRwczovL3d3dy5lZmlybWEuY29tLnB5L3ZhMD0GCCsGAQUFBzAChjFodHRwczovL3d3dy5lZmlybWEuY29tLnB5L3JlcG9zaXRvcmlvL2VmaXJtYTEuY3J0MHsGA1UdHwR0MHIwN6A1oDOGMWh0dHBzOi8vd3d3LmVmaXJtYS5jb20ucHkvcmVwb3NpdG9yaW8vZWZpcm1hMi5jcmwwN6A1oDOGMWh0dHBzOi8vd3d3LmVmaXJtYS5jb20ucHkvcmVwb3NpdG9yaW8vZWZpcm1hMy5jcmwwDQYJKoZIhvcNAQELBQADggIBADAYU2jJEL8Z7enbEaBw/CIQQhmUMU9aqGu2QQ0ij3U4IfsUEEzpgKiwjQYxx7lhUyHvKF0YsnNpAI3emI6WpsAi8OqCYpMDcZSNBzC5ZOifNlu9XSmICa0uaak4hsnTllXeFPhrL/ge4TS5fI36DOvCff1KluDXAjSzB6Dpa7RXucYF45NT+1/AoGa6/mvnky0FqVZh1i04X67kiY1jL6JZ/BJJs32hXPQYRzA4RQwHjItO4RWEM+6c4RZ2YJwvb5iWumEslNQDevPRkzvLErSawWYHWAd7MEuE14EriP9B8NhHwjVBPfprNWchBgCWodlQ8pU3SxPK6f781iYnUR/XCQP+VxXLQPvsMg96I8Lo5hNpuGL86lxGYysutuuys63kn20YUR65f7NKq2dEUUSe/HxUsITpNpzjqo/H/aYk3cLVd1X23p8W6E18oklTOzcmynpWrua8n/t/Ex55gYqr+cYU9iCmP6aiBL1CTbWAlMv9sOrUthhI6axVobpWEvFNBbBxvO2dgyoqWZMoNqGb7/gdu3fj1RrsSQVPxx3ViHTAdPVuJfe1H2cwQVEl3WpXqn6ZAjCqMzOyDEeUK7OUzjH11h6UdwmSSPAiBCTgQsQTzEmb3WdPFx0b4aGKcTW1RoCNrps8P5mAXS6ZhW9hchkdEAZKdAcN8eH5Uae6
+        </X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+  <gCamFuFD>
+    <dCarQR>https://ekuatia.set.gov.py/consultas/qr?nVersion=150&amp;Id=01800133668024001002060922023122615000827542&amp;dFeEmiDE=323032332d31322d32365431313a30353a3032&amp;dRucRec=4787628&amp;dTotGralOpe=290001&amp;dTotIVA=26364&amp;cItems=2&amp;DigestValue=532b4e314e6d7971617a4356555a526a6d3152744c2f364e4e7463324273693533786539555668697255513d&amp;IdCSC=1&amp;cHashQR=e3978687bff694fda515dee7a75bf48928e6ae1d9923b063babb0f9c2f3a55dd</dCarQR>
+    <dInfAdic>. AAKN 323 - NEW 2008.</dInfAdic>
+  </gCamFuFD>
+</rDE>
